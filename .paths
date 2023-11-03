@@ -1,0 +1,4 @@
+tests/path_a/*.txt
+tests/path_b*.txt
+tests/path_c/*.txt
+tests/path_c/path_d/*.txt
